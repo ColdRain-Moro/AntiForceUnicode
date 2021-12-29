@@ -1,0 +1,9 @@
+{
+  "minVersion": "0.8",
+  "target": "@env(DEFAULT)",
+  "refmap": "mixins.anti_force_unicode.refmap.json",
+  "package": "me.asgard.rain.afu.mixin",
+  "mixins": [
+    "MinecraftMixin"
+  ]
+}

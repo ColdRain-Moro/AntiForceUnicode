@@ -1,0 +1,11 @@
+modLoader="javafml" 
+loaderVersion="[34,)" 
+license="GNU GPLv3"
+[[mods]]
+modId="anti_force_unicode"
+version="${file.jarVersion}" 
+displayName="AntiForceUnicode"
+authors="Rain"
+description='''
+Force the force unicode selection to false - for Asgard
+'''
